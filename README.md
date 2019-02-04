@@ -48,7 +48,7 @@ rad2deg - Converts a radian value to a degree value<br/>
 round - Rounds a floating-point number<br/>
 sin - Returns the sine of a number<br/>
 sinh - Returns the hyperbolic sine of a number<br/>
-sqrt - Returns the square root of a number<br/>
+[sqrt](sqrt.php) - Returns the square root of a number<br/>
 srand - Seeds the random number generator<br/>
 tan - Returns the tangent of a number<br/>
 tanh - Returns the hyperbolic tangent of a number<br/>
