@@ -41,7 +41,7 @@ mt_getrandmax - Returns the largest possible value returned by mt_rand<br/>
 mt_rand - Generates a random integer using Mersenne Twister algorithm<br/>
 mt_srand - Seeds the Mersenne Twister random number generator<br/>
 octdec - Converts an octal number to a decimal number<br/>
-pi - Returns the value of PI<br/>
+[pi](pi.php) - Returns the value of PI<br/>
 pow - Returns x raised to the power of y<br/>
 rad2deg - Converts a radian value to a degree value<br/>
 rand - Generates a random integer<br/>
