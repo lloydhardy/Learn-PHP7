@@ -44,7 +44,7 @@ octdec - Converts an octal number to a decimal number<br/>
 [pi](pi.php) - Returns the value of PI<br/>
 pow - Returns x raised to the power of y<br/>
 rad2deg - Converts a radian value to a degree value<br/>
-rand - Generates a random integer<br/>
+[rand](rand.php) - Generates a random integer<br/>
 round - Rounds a floating-point number<br/>
 sin - Returns the sine of a number<br/>
 sinh - Returns the hyperbolic sine of a number<br/>
