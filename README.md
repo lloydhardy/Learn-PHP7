@@ -3,7 +3,7 @@ Language Reference for PHP7
 
 # Math Functions
 
-[abs.php](abs) - Returns the absolute (positive) value of a number<br/>
+[abs](abs.php) - Returns the absolute (positive) value of a number<br/>
 acos - Returns the arc cosine of a number<br/>
 acosh - Returns the inverse hyperbolic cosine of a number<br/>
 asin - Returns the arc sine of a number<br/>
