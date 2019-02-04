@@ -22,7 +22,7 @@ decoct - Converts a decimal number to an octal number<br/>
 deg2rad - Converts a degree value to a radian value<br/>
 exp - Calculates the exponent of e<br/>
 expm1 - Returns exp(x) - 1<br/>
-floor - Rounds a number down to the nearest integer<br/>
+[floor](floor.php) - Rounds a number down to the nearest integer<br/>
 fmod - Returns the remainder of x/y<br/>
 getrandmax - Returns the largest possible value returned by rand<br/>
 hexdec - Converts a hexadecimal number to a decimal number<br/>
